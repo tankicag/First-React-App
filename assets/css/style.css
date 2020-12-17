@@ -1,0 +1,163 @@
+/*font-family: 'Open Sans', sans-serif;
+*/
+body {
+
+	font-family: 'Open Sans', sans-serif;
+	margin:  0;
+
+}
+
+.site-logo{
+
+	width: 70px;
+	margin-left: 50%;
+	margin-top: 1%;
+	margin-bottom: -2%;
+}
+
+header nav {
+
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+}
+
+
+header nav ul li {
+
+	display: inline-block;
+	padding: 15px;
+}
+
+
+header a {
+
+	text-decoration: none;
+	color: #F05F40;
+	font-weight: bold;
+}
+
+
+#first-section {
+   
+   background: url('https://wordberry.com/wp-content/uploads/2017/11/How-to-Avoid-the-Biggest-Mistakes-in-Software-Localization-Wordberry.png');
+   text-align: center;
+   color:  #F05F40;
+   /*background-color: #C9C8C8;*/
+   padding: 13%;
+   background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat
+
+}
+
+
+
+
+header hr {
+
+	background-color:  #F05F40;
+	width: 45px;
+	height: 3px;
+	border: none;
+
+}
+
+header p {
+
+	font-family: "Courier New", sans-serif;
+	font-weight: 700;
+}
+
+
+header h1 {
+
+	margin-bottom: 6px;
+}
+
+#about {
+
+	background-color: #F05F40;
+	text-align: center;
+	color:  white;
+	padding:  4% 15%;
+
+}
+
+button {
+
+	background-color:  #F5FAFE;
+	border: none;
+	padding: 15px 20px;
+	border-radius:  30px;
+	text-transform: uppercase;
+	font-weight: bold;
+}   
+
+#about hr {
+
+	background: white;
+	width: 45px;
+	height: 3px;
+	border: none;
+}
+
+#about i {
+
+   font-size: 16px;
+   color: #F05F40;
+
+}
+
+h2 {
+
+	text-align: center;
+}
+.gallery {
+
+	width: 100%;
+    text-align: center;
+}
+
+.gallery img {
+
+	width: 25%;
+	margin: 0px 50px;
+}
+
+#contact{
+
+	background-color: #e9e9e9;
+	padding: 0% 6%;
+    text-align: center;
+    border-bottom: 2px solid #F05F40;
+}
+
+#contact h2 {
+
+	padding-top: 10px;
+}
+
+
+article {
+
+	display:  inline-block;
+	width: 20%;
+	padding: 5px 15px;
+	vertical-align: top;
+}
+
+#contact hr{
+
+	width: 45px;
+	height: 3px;
+	border: none;
+	background-color: #F05F40;
+}
+
+
+article i {
+
+	font-size: 60px;
+	color: #F05F40;
+}
